@@ -1,0 +1,17 @@
+{
+  "target": "NYC",
+  "model": "mf",
+  "gammas": {
+    "Chicago": 0.5,
+    "Singapore": 1.25,
+    "Tokyo": 0.0
+  },
+  "backbone": {
+    "recall": 0.24742650303243577,
+    "ndcg": 0.1390757678198162
+  },
+  "otc": {
+    "recall": 0.29130103470564966,
+    "ndcg": 0.178803082195393
+  }
+}
